@@ -14,3 +14,8 @@ io.on('connection', (socket) => {
         data: "Welcome to the WebSocket server!"
     })
 })
+
+
+// http://localhost:8000
+
+console.log('Server is running on http://localhost:8000')
